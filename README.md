@@ -18,15 +18,17 @@
 独当一面 · 万里挑一 · 追求热爱 · 追求自由  
 
 **Linux Fans** | I use Arch, BTW.  
-**Homepage:** [makis-life.cn](https://makis-life.cn)  
-**GPG PKey:** [4E90 6D6B B3FA ](https://keys.openpgp.org/search?q=0F8EFF9D25063A59D756EA9E46BA4E906D6BB3FA)  
+**Homepage:** [MAKISLIFE](https://makis-life.cn)  
+**GPG PKey:** [ 4E90 6D6B B3FA ](https://keys.openpgp.org/search?q=0F8EFF9D25063A59D756EA9E46BA4E906D6BB3FA)  
 
 ---
 
 ### 📊 GitHub Stats  
 
-![Maki's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakiWinster&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakiWinster&layout=compact&theme=radical)  
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MakiWinster&show_icons=true&theme=radical" alt="Maki's GitHub stats" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakiWinster&layout=compact&theme=radical" alt="Top Langs" width="350"/>
+</div>
 
 ---
 
