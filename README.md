@@ -19,7 +19,7 @@
 
 **Linux Fans** | I use Arch, BTW.  
 **Homepage:** [makis-life.cn](https://makis-life.cn)  
-**GPG PKey:** 4E90 6D6B B3FA · [0F8E FF9D 2506 3A59 D756 EA9E 46BA 4E90 6D6B B3FA](https://keys.openpgp.org/search?q=0F8EFF9D25063A59D756EA9E46BA4E906D6BB3FA)  
+**GPG PKey:** [4E90 6D6B B3FA ](https://keys.openpgp.org/search?q=0F8EFF9D25063A59D756EA9E46BA4E906D6BB3FA)  
 
 ---
 
