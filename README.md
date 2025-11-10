@@ -7,9 +7,6 @@
   <a href="mailto:makiiiiiiiho@gmail.com">
     <img src="https://img.shields.io/badge/Email-makiiiiiiiho@gmail.com-critical?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://twitter.com/MakiWinster">
-    <img src="https://img.shields.io/badge/Twitter-@MakiWinster-1DA1F2?style=flat-square&logo=twitter" />
-  </a>
 </p>
 
 ---
@@ -27,10 +24,5 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=MakiWinster&show_icons=true&theme=radical" alt="Maki's GitHub stats" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakiWinster&layout=compact&theme=radical" alt="Top Langs" width="350"/>
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakiWinster&layout=compact&theme=radical" alt="Top Langs" width="350"/> -->
 </div>
-
----
-
-### ✨ Motto  
-<u>热爱驱动前行，自由塑造人生。</u>  
