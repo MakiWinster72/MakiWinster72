@@ -19,7 +19,7 @@
     </td>
     <td align="center" width="56">
       <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/>
       </a>
     </td>
     <td align="center" width="56">
@@ -40,7 +40,7 @@
   <tr>
     <td align="center" width="56">
       <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/rust/DEA584" alt="rust" width="40" height="40"/>
       </a>
     </td>
     <td align="center" width="56">
@@ -84,7 +84,7 @@
 
 ---
 
-### 🖤 About Me
+### 🖤About Me
 
 成为独当一面 · 万里挑一, 追求热爱 · 追求自由
 
