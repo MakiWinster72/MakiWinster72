@@ -9,83 +9,96 @@
   </a>
 </p>
 
-<h3 align="left">System</h3>
-<table>
-  <tr>
-    <td align="center" width="56">
-      <a href="https://archlinux.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows11" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<h5 align="left">Language</h5>
+<p align="left" dir="auto" style="display: flex; flex-wrap: wrap; gap: 8px;">
 
-<h3 align="left">Language</h3>
-<table>
-  <tr>
-    <td align="center" width="56">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/rust/DEA584" alt="rust" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://isocpp.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.cprogramming.com/">
+    <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" style="max-width: 100%;">
+  </a>
 
-<h3 align="left">Editor</h3>
-<table>
-  <tr>
-    <td align="center" width="56">
-      <a href="https://neovim.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://isocpp.org">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.java.com">
+    <img src="https://img.shields.io/badge/Java-E23200?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.rust-lang.org">
+    <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://go.dev">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="max-width: 100%;">
+  </a>
+
+</p>
+
+<h5 align="left">System</h5>
+<p align="left" dir="auto" style="display: flex; flex-wrap: wrap; gap: 8px;">
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://archlinux.org">
+    <img src="https://img.shields.io/badge/Archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://ubuntu.com">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.microsoft.com/windows">
+    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" style="max-width: 100%;">
+  </a>
+
+</p>
+
+<p align="left" dir="auto" style="display: flex; flex-wrap: wrap; gap: 8px;">
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://termux.com">
+    <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=androidtermux&logoColor=white" alt="Termux" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linux.org">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://neovim.io">
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://code.visualstudio.com">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jetbrains.com/idea/">
+    <img src="https://img.shields.io/badge/IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IDEA" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://opencode.ai">
+    <img src="https://img.shields.io/badge/OpenCode-256FEF?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://claude.com/claude-code">
+    <img src="https://img.shields.io/badge/Claude%20Code-8A2BE2?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://openclaw.dev">
+    <img src="https://img.shields.io/badge/OpenClaw-6B4FD8?style=for-the-badge&logo=openclaw&logoColor=white" alt="OpenClaw" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://dribbble.com">
+    <img src="https://img.shields.io/badge/Web%20Design-C64B7A?style=for-the-badge&logo=dribbble&logoColor=white" alt="Web Design" style="max-width: 100%;">
+  </a>
+
+</p>
 
 ---
 
 ### 🖤About Me
 
-life motto: 成为独当一面 · 万里挑一, 追求热爱 · 追求自由
+`life motto`: 成为独当一面 · 万里挑一, 追求热爱 · 追求自由
 
-希望有一天能靠自己的微薄之力，创建更好的简中互联网环境。
-
-"coding is like dating with my sweety computer"
+> 希望有一天能靠自己的微薄之力，创建更好的简中互联网环境。
+> "coding is like dating with my sweety computer"
 
 **Linux Fan** | I use Arch, BTW.  
 **Homepage:** [Maki's LIFE](https://makis-life.cn)  
