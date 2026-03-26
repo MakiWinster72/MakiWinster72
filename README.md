@@ -23,11 +23,6 @@
       </a>
     </td>
     <td align="center" width="56">
-      <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="56">
       <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows11" width="40" height="40"/>
       </a>
@@ -39,16 +34,6 @@
 <table>
   <tr>
     <td align="center" width="56">
-      <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/rust/DEA584" alt="rust" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="56">
-      <a href="https://isocpp.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="56">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       </a>
@@ -56,6 +41,16 @@
     <td align="center" width="56">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="56">
+      <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/rust/DEA584" alt="rust" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="56">
+      <a href="https://isocpp.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
       </a>
     </td>
     <td align="center" width="56">
@@ -86,7 +81,11 @@
 
 ### 🖤About Me
 
-成为独当一面 · 万里挑一, 追求热爱 · 追求自由
+life motto: 成为独当一面 · 万里挑一, 追求热爱 · 追求自由
+
+希望有一天能靠自己的微薄之力，创建更好的简中互联网环境。
+
+"coding is like dating with my sweety computer"
 
 **Linux Fan** | I use Arch, BTW.  
 **Homepage:** [Maki's LIFE](https://makis-life.cn)  
