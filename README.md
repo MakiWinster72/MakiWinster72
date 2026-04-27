@@ -23,26 +23,6 @@
     <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" style="max-width: 100%;">
   </a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://code.visualstudio.com">
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" style="max-width: 100%;">
-  </a>
-
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jetbrains.com/idea/">
-    <img src="https://img.shields.io/badge/IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IDEA" style="max-width: 100%;">
-  </a>
-
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://opencode.ai">
-    <img src="https://img.shields.io/badge/OpenCode-256FEF?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" style="max-width: 100%;">
-  </a>
-
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://claude.com/claude-code">
-    <img src="https://img.shields.io/badge/Claude%20Code-8A2BE2?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" style="max-width: 100%;">
-  </a>
-
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://openclaw.dev">
-    <img src="https://img.shields.io/badge/OpenClaw-6B4FD8?style=for-the-badge&logo=openclaw&logoColor=white" alt="OpenClaw" style="max-width: 100%;">
-  </a>
-
 </p>
 
 <h5 align="left">Language</h5>
@@ -68,6 +48,10 @@
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="max-width: 100%;">
   </a>
 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="max-width: 100%;">
+  </a>
+
 </p>
 
 <h5 align="left">System</h5>
@@ -79,6 +63,10 @@
 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://ubuntu.com">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.redhat.com">
+    <img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RedHat" style="max-width: 100%;">
   </a>
 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.microsoft.com/windows">
