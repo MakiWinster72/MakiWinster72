@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MakiWinster</h1>
 
-**Previous Account:** [MakiWinster](https://github.com/MakiWinster) — fku Github 2FA, make me lose my acc
+**Previous Account:** [MakiWinster](https://github.com/MakiWinster) — bc Github 2FA, make me lose my acc
 
 <p align="center">
   <a href="https://www.makis-life.cn">
