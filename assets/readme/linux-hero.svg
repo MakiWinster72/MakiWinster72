@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="400" viewBox="0 0 1200 400"
+     role="img" aria-labelledby="title desc">
+  <title id="title">MakiWinster</title>
+  <desc id="desc">A dark Linux terminal-inspired profile card showing MakiWinster's Arch Linux workspace and daily command-line tools.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111820"/>
+      <stop offset="1" stop-color="#0B0F14"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="400" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="#0B0F14"/>
+    <path d="M0 0H1200V8H0Z" fill="#1793D1"/>
+    <path d="M0 400L315 0H402L88 400Z" fill="#1793D1" opacity=".06"/>
+
+    <g transform="translate(58 56)">
+      <text x="0" y="0" fill="#7D8996" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="3">Hey yooooooooooooo</text>
+      <text x="0" y="82" fill="#F5F7FA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="70" font-weight="750">Maki Winster</text>
+      <text x="2" y="133" fill="#1793D1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="34" font-weight="650">i use Arch btw</text>
+
+      <g transform="translate(0 230)">
+        <rect width="112" height="38" rx="19" fill="#1793D1"/>
+        <g transform="translate(14 8) scale(.92)" fill="#071018">
+          <path d="M11.39.605C10.376 3.092 9.764 4.72 8.635 7.132c.693.734 1.543 1.589 2.923 2.554-1.484-.61-2.496-1.224-3.252-1.86C6.86 10.842 4.596 15.138 0 23.395c3.612-2.085 6.412-3.37 9.021-3.862a6.61 6.61 0 01-.171-1.547l.003-.115c.058-2.315 1.261-4.095 2.687-3.973 1.426.12 2.534 2.096 2.478 4.409a6.52 6.52 0 01-.146 1.243c2.58.505 5.352 1.787 8.914 3.844-.702-1.293-1.33-2.459-1.929-3.57-.943-.73-1.926-1.682-3.933-2.713 1.38.359 2.367.772 3.137 1.234-6.09-11.334-6.582-12.84-8.67-17.74z"/>
+        </g>
+        <text x="69" y="26" text-anchor="middle" fill="#071018" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700">ARCH</text>
+        <rect x="124" width="105" height="38" rx="19" fill="#18212A"/>
+        <g transform="translate(137 8) scale(.92)" fill="#D8DEE5">
+          <path d="M11.415 5.038a.58.58 0 0 0-.543.197L.135 18.021a.58.58 0 0 0 .071.814.58.58 0 0 0 .815-.07L11.757 5.979a.58.58 0 0 0-.07-.815.6.6 0 0 0-.272-.126m-8.113.317a3.133 3.133 0 0 0-3.12 3.12 3.13 3.13 0 0 0 3.12 3.119A3.133 3.133 0 0 0 6.42 8.475a3.13 3.13 0 0 0-3.119-3.119m0 1.806a1.3 1.3 0 0 1 1.314 1.313 1.3 1.3 0 0 1-1.314 1.312A1.3 1.3 0 0 1 1.99 8.475a1.3 1.3 0 0 1 1.312-1.314m5.253 5.253a3.13 3.13 0 0 0-3.119 3.119 3.13 3.13 0 0 0 3.12 3.118 3.133 3.133 0 0 0 3.118-3.12 3.133 3.133 0 0 0-3.119-3.118m0 1.805a1.3 1.3 0 0 1 1.313 1.314c0 .735-.577 1.312-1.312 1.312a1.3 1.3 0 0 1-1.314-1.312 1.3 1.3 0 0 1 1.313-1.314m7.201 3.276a.58.58 0 0 0-.578.578.58.58 0 0 0 .578.578h7.666a.58.58 0 0 0 .579-.578.58.58 0 0 0-.579-.578Z"/>
+        </g>
+        <text x="191" y="26" text-anchor="middle" fill="#D8DEE5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">ZSH</text>
+        <rect x="241" width="112" height="38" rx="19" fill="#18212A"/>
+        <g transform="translate(254 8) scale(.92)" fill="#56D364">
+          <path d="M24 2.251V10.5H12.45V0h9.3A2.251 2.251 0 0 1 24 2.251zM12.45 11.4H24v10.5h-.008A2.25 2.25 0 0 1 21.75 24H2.25a2.247 2.247 0 0 1-2.242-2.1H0V2.251A2.251 2.251 0 0 1 2.25 0h9.3v21.6h.9V11.4zm11.242 10.5H.308a1.948 1.948 0 0 0 1.942 1.8h19.5a1.95 1.95 0 0 0 1.942-1.8z"/>
+        </g>
+        <text x="318" y="26" text-anchor="middle" fill="#D8DEE5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">TMUX</text>
+        <rect x="365" width="128" height="38" rx="19" fill="#18212A"/>
+        <g transform="translate(377 8) scale(.92)" fill="#57A143">
+          <path d="M2.214 4.954v13.615L7.655 24V10.314L3.312 3.845 2.214 4.954zm4.999 17.98l-4.557-4.548V5.136l.59-.596 3.967 5.908v12.485zm14.573-4.457l-.862.937-4.24-6.376V0l5.068 5.092.034 13.385zM7.431.001l12.998 19.835-3.637 3.637L3.787 3.683 7.43 0z"/>
+        </g>
+        <text x="450" y="26" text-anchor="middle" fill="#D8DEE5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">NEOVIM</text>
+      </g>
+    </g>
+
+    <g transform="translate(700 48)">
+      <rect width="442" height="304" rx="18" fill="url(#panel)" stroke="#283440" stroke-width="2"/>
+      <path d="M0 52H442" stroke="#283440" stroke-width="2"/>
+      <circle cx="26" cy="26" r="6" fill="#FF5F57"/>
+      <circle cx="48" cy="26" r="6" fill="#FEBB2E"/>
+      <circle cx="70" cy="26" r="6" fill="#28C840"/>
+      <text x="221" y="33" text-anchor="middle" fill="#7D8996" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">maki@arch: ~</text>
+
+      <g transform="translate(26 90)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">
+        <text x="0" y="0" fill="#56D364">❯</text>
+        <text x="28" y="0" fill="#D8DEE5">uname -s</text>
+        <text x="0" y="36" fill="#1793D1">Linux</text>
+
+        <text x="0" y="82" fill="#56D364">❯</text>
+        <text x="28" y="82" fill="#D8DEE5">echo $SHELL</text>
+        <text x="0" y="118" fill="#AEB8C2">/bin/zsh</text>
+
+        <text x="0" y="164" fill="#56D364">❯</text>
+        <text x="28" y="164" fill="#D8DEE5">whoami</text>
+        <text x="0" y="200" fill="#1793D1">maki</text>
+        <rect x="58" y="182" width="12" height="22" fill="#56D364"/>
+      </g>
+    </g>
+
+    <text x="1142" y="380" text-anchor="end" fill="#4E5A66" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">github@MakiWinster72</text>
+  </g>
+</svg>
