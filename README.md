@@ -4,7 +4,9 @@
 
 ## `whoami`
 
-> Maki anything kickass.
+MakiWinster
+
+> Make anything kickass.
 
 > 成为万里挑一，追求热爱 · 追求自由
 
