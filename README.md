@@ -6,9 +6,9 @@
 
 MakiWinster
 
-> Make anything kickass.
+> Make it kickass.
 
-> 成为万里挑一，追求热爱 · 追求自由
+正在成为万里挑一，追求热爱 · 追求自由
 
 ## `connect`
 
